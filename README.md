@@ -1,4 +1,6 @@
-• 👋 Hi, I’m Hannah. Front-End Developer
+• 👋 Hi, I’m Hannah.
+
+• 👩🏼‍💻 Front-end Developer
 
 • ⚛️ React Developer 
 
