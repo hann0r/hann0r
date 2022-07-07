@@ -1,8 +1,10 @@
 • 👋 Hi, I’m Hannah. Front-End Developer / Junior React Developer ⚛️
 
+• ♾️ Working for Loopspeed! 
+
 • ❤️ Creating coding content on Instagram (@hann0gram)
 
-• 🌱 Currently studying -> React.js / Responsive - With SheCodes.io
+• 👩🏼‍🎓 SheCodes.io Graduate 
 
 • 📧 Contact: hannahjeanharries@gmail.com
 
