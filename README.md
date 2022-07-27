@@ -1,12 +1,10 @@
 • 👋 Hi, I’m Hannah.
 
-• 👩🏼‍💻 Front-end Developer
-
-• ⚛️ React Developer 
-
-• 👩🏼‍🎓 SheCodes.io Graduate
+• 👩🏼‍💻 Front-end ⚛️ React Developer 
 
 • ♾️ Working for Loopspeed! 
+
+• 👩🏼‍🎓 SheCodes.io Graduate
 
 • ❤️ Creating coding content on Instagram (@hann0gram)
 
