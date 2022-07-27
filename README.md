@@ -1,14 +1,14 @@
-• 👋 Hi, I’m Hannah.
+👋 Hi, I’m Hannah.
 
-• 👩🏼‍💻 Front-end ⚛️ React Developer 
+👩🏼‍💻 Front-end ⚛️ React Developer 
 
-• ♾️ Working for Loopspeed! 
+♾️ Working for Loopspeed! 
 
-• 👩🏼‍🎓 SheCodes.io Graduate
+👩🏼‍🎓 SheCodes.io Graduate
 
-• ❤️ Creating coding content on Instagram (@hann0gram)
+❤️ Creating coding content on Instagram (@hann0gram)
 
-• 📧 Contact: hannah@loopspeed.co.uk
+📧 Contact: hannah@loopspeed.co.uk
 
 <!---
 hann0r/hann0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
