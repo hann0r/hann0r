@@ -2,7 +2,7 @@
 
 👩🏼‍💻 Front-end ⚛️ React Developer 
 
-♾️ Working for Loopspeed! 
+♾️ Working with Loopspeed! 
 
 👩🏼‍🎓 SheCodes.io Graduate
 
