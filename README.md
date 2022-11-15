@@ -6,7 +6,7 @@
 
 👩🏼‍🎓 SheCodes.io Graduate
 
-❤️ Creating coding content on Instagram (@hann0gram)
+❤️ Creating coding content on Instagram (@hanno_gram)
 
 📧 Contact: hannah@loopspeed.co.uk
 
