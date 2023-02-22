@@ -2,7 +2,7 @@
 
 👩🏼‍💻 Front-end ⚛️ React Developer 
 
-♾️ Working with Loopspeed! 
+♾️ Working with Loopspeed and Wingcard.io 🦋! 
 
 👩🏼‍🎓 SheCodes.io Graduate
 
